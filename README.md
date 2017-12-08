@@ -10,5 +10,7 @@ by lianlin,zhangxuan,gaoxiaoyang
 │   └── Rawdata #测试数据
 └── Software #我们的 pipeline
 ```
+### 软件下载
+bioconda
 
 
