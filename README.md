@@ -1,4 +1,7 @@
-biotools
+RNA-seq pipeline
 ========
 
-We trend to develop programs for bioinformations.
+构建一个新的 RNA-seq pipeline  
+by lianlin,zhangxuan,gaoxiaoyang
+
+
