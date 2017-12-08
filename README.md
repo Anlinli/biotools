@@ -17,3 +17,8 @@ by lianlin,zhangxuan,gaoxiaoyang
 3. 使用Bioconda([https://bioconda.github.io/](https://bioconda.github.io/))安装 pipeline 中依赖的软件。`sh install_software.sh` or `conda install bwa`
 4. 填写配置文件
 
+### Snakemake 使用
+* [官方文档](http://snakemake.readthedocs.io/en/stable/tutorial/basics.html)
+* [中文简单教程](https://adoubi.life/posts/2017-11-14/)
+* [例子数据](https://github.com/l0o0/snakemake-tutorial)
+
