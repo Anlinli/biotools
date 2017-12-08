@@ -11,6 +11,7 @@ by lianlin,zhangxuan,gaoxiaoyang
 └── Software #我们的 pipeline
 ```
 ### 软件下载
-bioconda
+1. 安装 [Miniconda](https://conda.io/miniconda.html)，推荐 Python3版本
+2. 使用Bioconda([https://bioconda.github.io/](https://bioconda.github.io/))安装 pipeline 中依赖的软件。`sh install_software.sh`
 
 
