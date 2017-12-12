@@ -1,1 +1,1 @@
-conda install bwa
+conda install bwa sra-tools trimmomatic tophat cufflinks htseq
